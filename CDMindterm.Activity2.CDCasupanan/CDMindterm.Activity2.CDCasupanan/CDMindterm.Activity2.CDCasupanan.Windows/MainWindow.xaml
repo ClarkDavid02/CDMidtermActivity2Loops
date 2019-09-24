@@ -1,0 +1,20 @@
+﻿<Window x:Class="CDMindterm.Activity2.CDCasupanan.Windows.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CDMindterm.Activity2.CDCasupanan.Windows"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <TextBox x:Name="TextBox_From" HorizontalAlignment="Left" Height="45" Margin="163,98,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="164"/>
+        <Label Content="This program will get the sum of all integers between two numbers:" HorizontalAlignment="Left" Margin="72,25,0,0" VerticalAlignment="Top" Height="52" Width="352"/>
+        <Label Content="From:" HorizontalAlignment="Left" Margin="85,98,0,0" VerticalAlignment="Top" Width="78"/>
+        <Label Content="To:" HorizontalAlignment="Left" Margin="85,143,0,0" VerticalAlignment="Top" Width="78"/>
+        <Label Content="Result:" HorizontalAlignment="Left" Margin="72,246,0,0" VerticalAlignment="Top" Width="78"/>
+        <TextBox x:Name="TextBox_To" HorizontalAlignment="Left" Height="45" Margin="163,143,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="164"/>
+        <Label x:Name="lblResult" Content="" HorizontalAlignment="Left" Margin="163,246,0,0" VerticalAlignment="Top" Width="164" Height="46"/>
+        <Button Content="Button" HorizontalAlignment="Left" Height="41" Margin="39,200,0,0" VerticalAlignment="Top" Width="429" Click="BtnButton_Clic"/>
+
+    </Grid>
+</Window>

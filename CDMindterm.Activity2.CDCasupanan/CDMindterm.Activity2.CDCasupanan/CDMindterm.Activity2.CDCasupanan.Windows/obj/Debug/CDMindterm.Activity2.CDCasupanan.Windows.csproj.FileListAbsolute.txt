@@ -1,0 +1,15 @@
+C:\Users\COMLABPC8\source\repos\CDMindterm.Activity2.CDCasupanan\CDMindterm.Activity2.CDCasupanan.Windows\bin\Debug\CDMindterm.Activity2.CDCasupanan.Windows.exe.config
+C:\Users\COMLABPC8\source\repos\CDMindterm.Activity2.CDCasupanan\CDMindterm.Activity2.CDCasupanan.Windows\bin\Debug\CDMindterm.Activity2.CDCasupanan.Windows.exe
+C:\Users\COMLABPC8\source\repos\CDMindterm.Activity2.CDCasupanan\CDMindterm.Activity2.CDCasupanan.Windows\bin\Debug\CDMindterm.Activity2.CDCasupanan.Windows.pdb
+C:\Users\COMLABPC8\source\repos\CDMindterm.Activity2.CDCasupanan\CDMindterm.Activity2.CDCasupanan.Windows\obj\Debug\CDMindterm.Activity2.CDCasupanan.Windows.csprojResolveAssemblyReference.cache
+C:\Users\COMLABPC8\source\repos\CDMindterm.Activity2.CDCasupanan\CDMindterm.Activity2.CDCasupanan.Windows\obj\Debug\MainWindow.g.cs
+C:\Users\COMLABPC8\source\repos\CDMindterm.Activity2.CDCasupanan\CDMindterm.Activity2.CDCasupanan.Windows\obj\Debug\App.g.cs
+C:\Users\COMLABPC8\source\repos\CDMindterm.Activity2.CDCasupanan\CDMindterm.Activity2.CDCasupanan.Windows\obj\Debug\CDMindterm.Activity2.CDCasupanan.Windows_MarkupCompile.cache
+C:\Users\COMLABPC8\source\repos\CDMindterm.Activity2.CDCasupanan\CDMindterm.Activity2.CDCasupanan.Windows\obj\Debug\CDMindterm.Activity2.CDCasupanan.Windows_MarkupCompile.lref
+C:\Users\COMLABPC8\source\repos\CDMindterm.Activity2.CDCasupanan\CDMindterm.Activity2.CDCasupanan.Windows\obj\Debug\MainWindow.baml
+C:\Users\COMLABPC8\source\repos\CDMindterm.Activity2.CDCasupanan\CDMindterm.Activity2.CDCasupanan.Windows\obj\Debug\CDMindterm.Activity2.CDCasupanan.Windows.g.resources
+C:\Users\COMLABPC8\source\repos\CDMindterm.Activity2.CDCasupanan\CDMindterm.Activity2.CDCasupanan.Windows\obj\Debug\CDMindterm.Activity2.CDCasupanan.Windows.Properties.Resources.resources
+C:\Users\COMLABPC8\source\repos\CDMindterm.Activity2.CDCasupanan\CDMindterm.Activity2.CDCasupanan.Windows\obj\Debug\CDMindterm.Activity2.CDCasupanan.Windows.csproj.GenerateResource.Cache
+C:\Users\COMLABPC8\source\repos\CDMindterm.Activity2.CDCasupanan\CDMindterm.Activity2.CDCasupanan.Windows\obj\Debug\CDMindterm.Activity2.CDCasupanan.Windows.csproj.CoreCompileInputs.cache
+C:\Users\COMLABPC8\source\repos\CDMindterm.Activity2.CDCasupanan\CDMindterm.Activity2.CDCasupanan.Windows\obj\Debug\CDMindterm.Activity2.CDCasupanan.Windows.exe
+C:\Users\COMLABPC8\source\repos\CDMindterm.Activity2.CDCasupanan\CDMindterm.Activity2.CDCasupanan.Windows\obj\Debug\CDMindterm.Activity2.CDCasupanan.Windows.pdb
